@@ -1,0 +1,6 @@
+Sep 23, 2018 7:01:56 PM SimpleLogging main
+CONFIG: Configuration done.
+Sep 23, 2018 7:01:59 PM SimpleCsvParser main
+INFO: Total execution time: 3836 ms
+Sep 23, 2018 7:01:59 PM SimpleCsvParser main
+INFO: Number of Valid Rows: 201055 Number of Invalid Rows: 81827
