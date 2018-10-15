@@ -1,0 +1,8 @@
+Oct 14, 2018 12:51:51 PM OutputLogging main
+CONFIG: Configuration done.
+Oct 14, 2018 12:51:54 PM Assignment2 main
+FINE: Requested entry is 100123.
+Transaction [id=0, nameOnCard=null, cardNumber=null, unitPrice=0.0, quantity=0, totalPrice=0.0, expDate=null, createdOn=null, createdBy=null, creditCard=null]
+Oct 14, 2018 12:53:26 PM Assignment2 main
+FINE: Requested entry is 1.
+Transaction [id=1, nameOnCard=caner, cardNumber=1234567812345678, unitPrice=10.0, quantity=1, totalPrice=10.0, expDate=12/18, createdOn=2018-10-06 18:58:35, createdBy=Caner, creditCard=MasterCard]

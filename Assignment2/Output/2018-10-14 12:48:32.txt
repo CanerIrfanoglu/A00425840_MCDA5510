@@ -1,0 +1,6 @@
+Oct 14, 2018 12:48:32 PM OutputLogging main
+CONFIG: Configuration done.
+Oct 14, 2018 12:50:06 PM Assignment2 main
+FINE: Removed transaction ID 99 successfully.
+Oct 14, 2018 12:50:15 PM Assignment2 main
+FINEST: 21 transactions listed.

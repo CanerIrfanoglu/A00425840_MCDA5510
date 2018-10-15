@@ -1,0 +1,4 @@
+Oct 14, 2018 12:54:08 PM SimpleLogging main
+CONFIG: Configuration done.
+Oct 14, 2018 12:54:15 PM Assignment2 main
+FINE: Invalid user input for get entryjava.util.InputMismatchException
