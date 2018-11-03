@@ -1,0 +1,7 @@
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Caner\Desktop\A00425840\MCDA5510_AssignmentsC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
