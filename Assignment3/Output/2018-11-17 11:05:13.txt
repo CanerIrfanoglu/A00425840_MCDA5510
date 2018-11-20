@@ -1,0 +1,2 @@
+Nov 17, 2018 11:05:13 AM com.caner.mcda5510.logging.OutputLogging main
+CONFIG: Configuration done.

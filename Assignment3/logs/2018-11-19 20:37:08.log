@@ -1,0 +1,8 @@
+Nov 19, 2018 8:37:08 PM com.caner.mcda5510.logging.SimpleLogging main
+CONFIG: Configuration done.
+Nov 19, 2018 8:37:08 PM com.caner.mcda5510.dao.MySQLAccess getTransaction
+FINE: Transaction 10 retrieved successfully
+Nov 19, 2018 8:37:29 PM com.caner.mcda5510.logging.SimpleLogging main
+CONFIG: Configuration done.
+Nov 19, 2018 8:37:29 PM com.caner.mcda5510.dao.MySQLAccess createTransaction
+WARNING: createTransaction ID already exists in the DBjava.sql.SQLIntegrityConstraintViolationException: Duplicate entry '10' for key 'PRIMARY'

@@ -1,0 +1,4 @@
+Nov 19, 2018 3:51:23 PM com.caner.mcda5510.logging.SimpleLogging main
+CONFIG: Configuration done.
+Nov 19, 2018 3:51:23 PM com.caner.mcda5510.dao.MySQLAccess createTransaction
+FINE: New transaction created successfully.

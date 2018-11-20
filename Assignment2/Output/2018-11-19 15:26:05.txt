@@ -1,0 +1,5 @@
+Nov 19, 2018 3:26:05 PM OutputLogging main
+CONFIG: Configuration done.
+Nov 19, 2018 3:26:08 PM Assignment2 main
+FINE: Requested entry is 10.
+Transaction [id=10, nameOnCard=ossman12, cardNumber=4545123412341234, unitPrice=10.0, quantity=10, totalPrice=100.0, expDate=10, createdOn=2018-11-18 21:36:18, createdBy=Caner, creditCard=Visa]

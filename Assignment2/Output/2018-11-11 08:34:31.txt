@@ -1,0 +1,4 @@
+Nov 11, 2018 8:34:31 AM OutputLogging main
+CONFIG: Configuration done.
+Nov 11, 2018 8:34:33 AM Assignment2 main
+FINE: 20 transactions listed.

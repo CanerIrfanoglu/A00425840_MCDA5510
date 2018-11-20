@@ -1,0 +1,5 @@
+Nov 17, 2018 6:48:21 PM com.caner.mcda5510.logging.OutputLogging main
+CONFIG: Configuration done.
+Nov 17, 2018 6:48:23 PM com.caner.mcda5510.Assignment2 main
+FINE: Requested entry is 1.
+Transaction [id=1, nameOnCard=caner, cardNumber=1234567812345678, unitPrice=10.0, quantity=1, totalPrice=10.0, expDate=12/18, createdOn=2018-10-06 18:58:35, createdBy=Caner, creditCard=MasterCard]

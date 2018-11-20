@@ -1,0 +1,5 @@
+Nov 10, 2018 9:10:59 AM OutputLogging main
+CONFIG: Configuration done.
+Nov 10, 2018 9:11:04 AM Assignment2 main
+FINE: Requested entry is 15000.
+Transaction [id=0, nameOnCard=null, cardNumber=null, unitPrice=0.0, quantity=0, totalPrice=0.0, expDate=null, createdOn=null, createdBy=null, creditCard=null]
